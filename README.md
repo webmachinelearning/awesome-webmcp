@@ -58,6 +58,7 @@
 ## Tools
 
 - [Collection of WebMCP tools](https://github.com/GoogleChromeLabs/webmcp-tools/) by Google Chrome Labs
+- [webmaxru/agent-skills: WebMCP](https://github.com/webmaxru/agent-skills/tree/main/skills/webmcp) - Agent skill for implementing and debugging browser WebMCP integrations in JavaScript and TypeScript web apps
 
 ## Tutorials
 
