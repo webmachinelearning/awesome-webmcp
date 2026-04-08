@@ -48,6 +48,7 @@
 ## Demos
 
 - 2025.10 [WebMCP demo recording](https://screen.studio/share/hbGudbFm) by Alex Nahas, presented at W3C TPAC 2025
+- 2026.03 [AgentPay x402 Payment Demo](https://github.com/GoogleChromeLabs/webmcp-tools/tree/main/demos/x402-payment) — AI agent makes x402 micropayments (HTTP 402 Payment Required) through `navigator.modelContext`. Demonstrates both declarative and imperative tool registration with payment wallet UX on Base.
 
 ## Frameworks
 
@@ -58,6 +59,7 @@
 ## Tools
 
 - [Collection of WebMCP tools](https://github.com/GoogleChromeLabs/webmcp-tools/) by Google Chrome Labs
+- [webmcp-sdk](https://github.com/up2itnow0822/webmcp-sdk) — W3C WebMCP developer toolkit with TypeScript types, tool helpers, and x402 payment integration. Make any website agent-ready with `navigator.modelContext`.
 
 ## Tutorials
 
