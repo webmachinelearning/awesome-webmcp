@@ -50,6 +50,7 @@
 
 - [Demos](https://github.com/GoogleChromeLabs/webmcp-tools/#demos) by Google Chrome Labs
 - [Demos](https://github.com/GoogleChromeLabs/webmcp-tools/blob/main/AWESOME_WEBMCP.md#demos) by 3rd-party developers
+- [isainative.dev](https://isainative.dev/) - Audits public GitHub repositories for AI coding readiness and exposes both declarative and imperative WebMCP tools.
 
 ## Frameworks
 
