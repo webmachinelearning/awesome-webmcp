@@ -48,7 +48,7 @@
 ## Demos
 
 - 2025.10 [WebMCP demo recording](https://screen.studio/share/hbGudbFm) by Alex Nahas, presented at W3C TPAC 2025
-- [isainative.dev](https://isainative.dev/) - Audit public GitHub repositories for AI coding readiness. Exposing both declarative and imperative WebMCP tools.
+- [isainative.dev](https://isainative.dev/) - Audits public GitHub repositories for AI coding readiness and exposes both declarative and imperative WebMCP tools.
 
 ## Frameworks
 
