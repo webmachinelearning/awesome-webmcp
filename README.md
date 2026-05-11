@@ -16,6 +16,7 @@
 - [Chrome WebMCP Early Preview ](https://developer.chrome.com/blog/webmcp-epp) and [detailed instructions](https://docs.google.com/document/d/1rtU1fRPS0bMqd9abMG_hc6K9OAI6soUy3Kh00toAgyk/)
 - [MCP-B open-source project](https://github.com/WebMCP-org) by Alex Nahas
 - [An early WebMCP open-source project](https://github.com/jasonjmcghee/WebMCP) by Jason McGhee
+- [Run a Chrome browser with the WebMCP flag enabled via Cloudflare](https://developers.cloudflare.com/browser-run/)
 
 ## Contents
 
@@ -47,7 +48,8 @@
 
 ## Demos
 
-- 2025.10 [WebMCP demo recording](https://screen.studio/share/hbGudbFm) by Alex Nahas, presented at W3C TPAC 2025
+- [Demos](https://github.com/GoogleChromeLabs/webmcp-tools/#demos) by Google Chrome Labs
+- [Demos](https://github.com/GoogleChromeLabs/webmcp-tools/blob/main/AWESOME_WEBMCP.md#demos) by 3rd-party developers
 - [isainative.dev](https://isainative.dev/) - Audits public GitHub repositories for AI coding readiness and exposes both declarative and imperative WebMCP tools.
 
 ## Frameworks
@@ -59,6 +61,7 @@
 ## Tools
 
 - [Collection of WebMCP tools](https://github.com/GoogleChromeLabs/webmcp-tools/) by Google Chrome Labs
+- [webmaxru/agent-skills: WebMCP](https://github.com/webmaxru/agent-skills/tree/main/skills/webmcp) - Agent skill for implementing and debugging browser WebMCP integrations in JavaScript and TypeScript web apps
 
 ## Tutorials
 
@@ -66,6 +69,7 @@
 
 - 2026.02 [WebMCP: Agents on the Web and in the Browser](https://www.youtube.com/watch?v=6Po39iD6Pfs&t=31s) by Alex Nahas, interviewed by RL Nabors
 - 2025.11 [Web AI Summit 2025: Don't let AI agents push your buttons - use WebMCP instead!](https://www.youtube.com/watch?v=p1l8nkQAoUw) by Khushal Sagar
+- 2025.10 [WebMCP demo recording](https://screen.studio/share/hbGudbFm) by Alex Nahas, presented at W3C TPAC 2025
 
 ## Websites
 
