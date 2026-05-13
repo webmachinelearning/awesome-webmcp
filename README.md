@@ -16,7 +16,7 @@
 - [Chrome WebMCP Early Preview ](https://developer.chrome.com/blog/webmcp-epp) and [detailed instructions](https://docs.google.com/document/d/1rtU1fRPS0bMqd9abMG_hc6K9OAI6soUy3Kh00toAgyk/)
 - [MCP-B open-source project](https://github.com/WebMCP-org) by Alex Nahas
 - [An early WebMCP open-source project](https://github.com/jasonjmcghee/WebMCP) by Jason McGhee
-- [Run a Chrome browser with the WebMCP flag enabled via Cloudflare](https://developers.cloudflare.com/browser-run/)
+- [Run headless Chrome with the WebMCP flag enabled via Cloudflare](https://developers.cloudflare.com/browser-run/features/webmcp/)
 
 ## Contents
 
