@@ -63,6 +63,8 @@
 - [Collection of WebMCP tools](https://github.com/GoogleChromeLabs/webmcp-tools/) by Google Chrome Labs
 - [webmaxru/agent-skills: WebMCP](https://github.com/webmaxru/agent-skills/tree/main/skills/webmcp) - Agent skill for implementing and debugging browser WebMCP integrations in JavaScript and TypeScript web apps
 - [Conscriba](https://conscriba.com/) — Automatic WebMCP Creation for AI Agents, Analytics & Tracking
+- [webmcp.cool](https://webmcp.cool/) — Live directory of WebMCP-enabled websites with a JSON API for agent-side discovery.
+- [Ask nekuda](https://chromewebstore.google.com/detail/ask-nekuda/amochnnbmnkjjlblolhpddkokhnalkjp) — Chrome side-panel AI assistant that picks up WebMCP tools exposed by the active tab; BYOK or hosted Gemini. [Source](https://github.com/nekuda-ai/nekuda-assistant-web-extension).
 
 ## Tutorials
 
