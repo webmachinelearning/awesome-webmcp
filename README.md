@@ -76,6 +76,8 @@
 
 ## Websites
 
+- [Scholar Sidekick](https://scholar-sidekick.com/) - Resolves scholarly identifiers (DOI, PMID, arXiv, ISBN…) and verifies citations, exposing six WebMCP tools (`resolveIdentifier`, `formatCitation`, `exportCitation`, `verifyCitation`, `checkRetraction`, `checkOpenAccess`) via `navigator.modelContext`, so in-browser agents can format citations and check retraction, open-access, and fabrication status directly.
+
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
