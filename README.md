@@ -54,6 +54,8 @@
 
 ## Frameworks
 
+- [Shopware WebMCP Plugin](https://github.com/agentic-commerce-lab/webmcp-plugin) - Adds WebMCP support to storefronts built with Shopware, an open-source ecommerce platform.
+
 ## Presentations
 
 ## Testimonials
