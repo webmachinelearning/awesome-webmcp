@@ -78,6 +78,8 @@
 
 ## Websites
 
+- [NaCzarter](https://naczarter.pl) - Yacht charter on the Masurian Lakes, Poland. Registers WebMCP tools to search availability, quote a charter and book it; live in production under the Chrome 149 origin trial.
+
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
