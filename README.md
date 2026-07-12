@@ -78,6 +78,8 @@
 
 ## Websites
 
+- [WindowsForum](https://windowsforum.com/) - Windows community forum exposing 20+ read-only tools and confirmation-gated member actions via `document.modelContext` (Chrome and Edge origin trials), plus a declarative search form and a [`.well-known/webmcp.json`](https://windowsforum.com/.well-known/webmcp.json) discovery document
+
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
