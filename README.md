@@ -55,6 +55,7 @@
 ## Frameworks
 
 - [Shopware WebMCP Plugin](https://github.com/agentic-commerce-lab/webmcp-plugin) - Adds WebMCP support to storefronts built with Shopware, an open-source ecommerce platform.
+- [webmcp-django](https://github.com/seunghan91/webmcp-django) - Django integration for WebMCP: Origin-Trial token middleware and template tags for the declarative form API.
 
 ## Presentations
 
