@@ -55,6 +55,7 @@
 ## Frameworks
 
 - [Shopware WebMCP Plugin](https://github.com/agentic-commerce-lab/webmcp-plugin) - Adds WebMCP support to storefronts built with Shopware, an open-source ecommerce platform.
+- [webmcp-go](https://github.com/seunghan91/webmcp-go) - Go net/http middleware that serves the WebMCP Origin-Trial token header.
 
 ## Presentations
 
