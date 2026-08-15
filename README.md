@@ -68,6 +68,7 @@
 - [Conscriba](https://conscriba.com/) — Automatic WebMCP Creation for AI Agents, Analytics & Tracking
 - [WSG WebMCP Experiment](https://mgifford.github.io/wsg-webmcp-experiment/) - An effort to learn about WebMCP by applying it to the [Web Sustainability Guidelines](https://github.com/w3c/sustainableweb-wsg)
 - [webmcpify](https://github.com/TueJon/webmcpify) - Agent skill that integrates WebMCP into an existing web app end to end — inventories the app, proposes a tool manifest for approval, integrates the tools, then verifies each one in a real browser and heals failures
+- [WebMCP Attack Surface Scanner](https://github.com/ElonMusk2002/webmcp-scanner) - Chrome extension that discovers a page's WebMCP tools and flags IDOR, prompt injection hidden in tool descriptions, destructive actions without a consent gate, and over-broad input schemas — includes active IDOR probing (real tool calls with varied IDs, not just name-based heuristics)
 
 ## Tutorials
 
