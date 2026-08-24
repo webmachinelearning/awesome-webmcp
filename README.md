@@ -21,6 +21,7 @@
 ## Contents
 
 - [Articles](#articles)
+- [Benchmarks](#benchmarks)
 - [Blogs](#blogs)
 - [Community](#community)
 - [Demos and Samples](#demos)
@@ -35,6 +36,10 @@
 ## Articles
 
 - 2026.02 [Google Chrome ships WebMCP in early preview, turning every website into a structured tool for AI agents](https://venturebeat.com/infrastructure/google-chrome-ships-webmcp-in-early-preview-turning-every-website-into-a) by Sam Witteveen / VentureBeat
+
+## Benchmarks
+
+- [WindTunnel](https://github.com/nekuda-ai/WindTunnel) - Open-source benchmark comparing WebMCP with other browser-agent interfaces across task success, execution time, token usage, and cost.
 
 ## Blogs
 
@@ -68,6 +73,7 @@
 - [Conscriba](https://conscriba.com/) — Automatic WebMCP Creation for AI Agents, Analytics & Tracking
 - [WSG WebMCP Experiment](https://mgifford.github.io/wsg-webmcp-experiment/) - An effort to learn about WebMCP by applying it to the [Web Sustainability Guidelines](https://github.com/w3c/sustainableweb-wsg)
 - [webmcpify](https://github.com/TueJon/webmcpify) - Agent skill that integrates WebMCP into an existing web app end to end — inventories the app, proposes a tool manifest for approval, integrates the tools, then verifies each one in a real browser and heals failures
+- [WebMCP Kit](https://github.com/nekuda-ai/webmcp-kit) - Coding-agent plugin for Claude Code and Codex with an interactive visual Explorer that maps a site's user journeys to proposed WebMCP tools for review and approval, then implements and verifies them in a real browser.
 
 ## Tutorials
 
