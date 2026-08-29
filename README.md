@@ -81,6 +81,7 @@
 
 ## Websites
 
+- [FlightQueue](https://flightqueue.com) - Airport queue intelligence. Airport pages expose live security checkpoint waits, recent traveller-submitted wait reports and current FAA ground stops over WebMCP, plus a write tool to file a wait the traveller has just observed. Tools call same-origin endpoints with the visitor's own session, so an in-browser agent gets exactly the entitlements the signed-in user has. Declared at [/.well-known/webmcp.json](https://flightqueue.com/.well-known/webmcp.json).
 - [Stacktree](https://stacktr.ee) - Agent-first HTML hosting. The production dashboard and docs expose site-management tools (publish, update, gate, share) over WebMCP from a command palette, so humans and in-browser agents share one tool catalog.
 
 ## License
