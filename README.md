@@ -81,6 +81,7 @@
 
 ## Websites
 
+- [Airport Lounge List](https://airportloungelist.com) - Airport lounge directory. Every page registers imperative WebMCP tools to search lounges, list an airport's lounges by IATA code, read the current page as Markdown and move around the site. Each tool is backed by the Markdown twin the page already serves, so agents and humans read the same source.
 - [Stacktree](https://stacktr.ee) - Agent-first HTML hosting. The production dashboard and docs expose site-management tools (publish, update, gate, share) over WebMCP from a command palette, so humans and in-browser agents share one tool catalog.
 
 ## License
