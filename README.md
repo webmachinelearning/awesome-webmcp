@@ -82,6 +82,7 @@
 ## Websites
 
 - [Stacktree](https://stacktr.ee) - Agent-first HTML hosting. The production dashboard and docs expose site-management tools (publish, update, gate, share) over WebMCP from a command palette, so humans and in-browser agents share one tool catalog.
+- [sms-florin](https://flo-voice1.com/esim) - eSIM and virtual phone number store. WebMCP tools are registered on the live Stripe checkout flow (not a separate demo), so an agent browses plans and completes a real purchase through the same code path a human uses. [Integration source](https://github.com/flovoice53-tech/sms-florin-webmcp-demo)
 
 ## License
 
