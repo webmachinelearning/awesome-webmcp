@@ -68,6 +68,7 @@
 - [Conscriba](https://conscriba.com/) — Automatic WebMCP Creation for AI Agents, Analytics & Tracking
 - [WSG WebMCP Experiment](https://mgifford.github.io/wsg-webmcp-experiment/) - An effort to learn about WebMCP by applying it to the [Web Sustainability Guidelines](https://github.com/w3c/sustainableweb-wsg)
 - [webmcpify](https://github.com/TueJon/webmcpify) - Agent skill that integrates WebMCP into an existing web app end to end — inventories the app, proposes a tool manifest for approval, integrates the tools, then verifies each one in a real browser and heals failures
+- [Orbilo](https://orbilo.co) - Agent readiness checker for UCP and WebMCP. Reads a site the way an AI assistant does and scores whether agents can find what you sell and act on it, then monitors as both specs change.
 
 ## Tutorials
 
