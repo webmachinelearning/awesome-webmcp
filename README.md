@@ -74,6 +74,7 @@
 - [admintoolkit.io](https://admintoolkit.io/) - A suite of 24 read-only WebMCP tools for infrastructure diagnostics, including a WebMCP tool validator.
 - [WebConverter](https://webconverter.app/webmcp.html) — Privacy-first, in-browser file converter (images, PDF, audio, video, OCR, 3D models). Every conversion is exposed as a WebMCP tool via `navigator.modelContext` so agents can convert files locally — no uploads, no API keys.
 - [webmcpify](https://github.com/TueJon/webmcpify) - Agent skill that integrates WebMCP into an existing web app end to end — inventories the app, proposes a tool manifest for approval, integrates the tools, then verifies each one in a real browser and heals failures
+- [WebMCP Today](https://webmcp.today/) - Open-source package registry for discovering site-specific WebMCP packages and installing them with per-site install commands ([source](https://github.com/robertn702/webmcp-today)).
 
 ## Tutorials
 
