@@ -61,6 +61,8 @@
 
 - [agentk](https://github.com/stevysmith/agentk) - Command palette library (a cmdk fork) where tools defined once as JSON Schema become human-facing forms and WebMCP registrations; handles the `navigator.modelContext` to `document.modelContext` move and AbortSignal-based unregistration.
 - [Shopware WebMCP Plugin](https://github.com/agentic-commerce-lab/webmcp-plugin) - Adds WebMCP support to storefronts built with Shopware, an open-source ecommerce platform.
+- [webmcp-go](https://github.com/seunghan91/webmcp-go) - Go net/http middleware that serves the WebMCP Origin-Trial token header.
+- [webmcp-django](https://github.com/seunghan91/webmcp-django) - Django integration for WebMCP: Origin-Trial token middleware and template tags for the declarative form API.
 
 ## Presentations
 
@@ -71,9 +73,14 @@
 - [Collection of WebMCP tools](https://github.com/GoogleChromeLabs/webmcp-tools/) by Google Chrome Labs
 - [webmaxru/agent-skills: WebMCP](https://github.com/webmaxru/agent-skills/tree/main/skills/webmcp) - Agent skill for implementing and debugging browser WebMCP integrations in JavaScript and TypeScript web apps
 - [Conscriba](https://conscriba.com/) — Automatic WebMCP Creation for AI Agents, Analytics & Tracking
+- [webmcp.com](https://webmcp.com/) — Live directory of WebMCP-enabled websites with a JSON API for agent-side discovery.
+- [Ask nekuda](https://chromewebstore.google.com/detail/ask-nekuda/amochnnbmnkjjlblolhpddkokhnalkjp) — Chrome side-panel AI assistant that picks up WebMCP tools exposed by the active tab; BYOK or hosted Gemini.
 - [WSG WebMCP Experiment](https://mgifford.github.io/wsg-webmcp-experiment/) - An effort to learn about WebMCP by applying it to the [Web Sustainability Guidelines](https://github.com/w3c/sustainableweb-wsg)
+- [admintoolkit.io](https://admintoolkit.io/) - A suite of 24 read-only WebMCP tools for infrastructure diagnostics, including a WebMCP tool validator.
+- [WebConverter](https://webconverter.app/webmcp.html) — Privacy-first, in-browser file converter (images, PDF, audio, video, OCR, 3D models). Every conversion is exposed as a WebMCP tool via `navigator.modelContext` so agents can convert files locally — no uploads, no API keys.
 - [webmcpify](https://github.com/TueJon/webmcpify) - Agent skill that integrates WebMCP into an existing web app end to end — inventories the app, proposes a tool manifest for approval, integrates the tools, then verifies each one in a real browser and heals failures
 - [WebMCP Kit](https://github.com/nekuda-ai/webmcp-kit) - Plugin for coding agents with an interactive visual Explorer that maps a site's user journeys to proposed WebMCP tools for review and approval, then implements and verifies them in a real browser.
+- [WebMCP Today](https://webmcp.today/) - Open-source package registry for discovering site-specific WebMCP packages and installing them with per-site install commands ([source](https://github.com/robertn702/webmcp-today)).
 
 ## Tutorials
 
@@ -87,6 +94,8 @@
 
 ## Websites
 
+- [Scholar Sidekick](https://scholar-sidekick.com/integrations) - Resolves scholarly identifiers (DOI, PMID, arXiv, ISBN…) and verifies citations, exposing six WebMCP tools (`resolveIdentifier`, `formatCitation`, `exportCitation`, `verifyCitation`, `checkRetraction`, `checkOpenAccess`) via `navigator.modelContext`, so in-browser agents can format citations and check retraction, open-access, and fabrication status directly.
+- [agent-ready.dev](https://agent-ready.dev/) - Scores any website for AI-agent readability against the Vercel Agent Readability Spec, llms.txt, and agent-protocol manifests, and exposes WebMCP tools (`scan_site`, `get_scan`, `ask`) via `navigator.modelContext` so in-browser agents can run scans directly.
 - [Stacktree](https://stacktr.ee) - Agent-first HTML hosting. The production dashboard and docs expose site-management tools (publish, update, gate, share) over WebMCP from a command palette, so humans and in-browser agents share one tool catalog.
 
 ## License
