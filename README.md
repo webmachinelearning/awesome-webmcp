@@ -44,6 +44,7 @@
 ## Blogs
 
 - 2026.02 [WebMCP: The Web Standard That Makes Every Website a Tool for Agents](https://www.arcade.dev/blog/web-mcp-alex-nahas-interview) by RL Nabors, based on Alex Nahas interview
+- 2026.09 [I added WebMCP to a live Stripe checkout in ~40 lines](https://dev.to/flovoice53tech/i-added-webmcp-to-a-live-stripe-checkout-in-40-lines-4ekk) by Florin Arsenie, on adding WebMCP to a product that already takes real money
 
 ## Community
 
