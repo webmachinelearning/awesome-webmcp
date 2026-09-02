@@ -56,6 +56,7 @@
 
 - [agentk](https://github.com/stevysmith/agentk) - Command palette library (a cmdk fork) where tools defined once as JSON Schema become human-facing forms and WebMCP registrations; handles the `navigator.modelContext` to `document.modelContext` move and AbortSignal-based unregistration.
 - [Shopware WebMCP Plugin](https://github.com/agentic-commerce-lab/webmcp-plugin) - Adds WebMCP support to storefronts built with Shopware, an open-source ecommerce platform.
+- [webmcp-go](https://github.com/seunghan91/webmcp-go) - Go net/http middleware that serves the WebMCP Origin-Trial token header.
 - [webmcp-django](https://github.com/seunghan91/webmcp-django) - Django integration for WebMCP: Origin-Trial token middleware and template tags for the declarative form API.
 
 ## Presentations
