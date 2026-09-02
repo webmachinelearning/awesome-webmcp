@@ -74,6 +74,7 @@
 - [admintoolkit.io](https://admintoolkit.io/) - A suite of 24 read-only WebMCP tools for infrastructure diagnostics, including a WebMCP tool validator.
 - [WebConverter](https://webconverter.app/webmcp.html) — Privacy-first, in-browser file converter (images, PDF, audio, video, OCR, 3D models). Every conversion is exposed as a WebMCP tool via `navigator.modelContext` so agents can convert files locally — no uploads, no API keys.
 - [webmcpify](https://github.com/TueJon/webmcpify) - Agent skill that integrates WebMCP into an existing web app end to end — inventories the app, proposes a tool manifest for approval, integrates the tools, then verifies each one in a real browser and heals failures
+- [WebMCP Attack Surface Scanner](https://github.com/ElonMusk2002/webmcp-scanner) - Chrome extension that discovers a page's WebMCP tools and flags IDOR, prompt injection hidden in tool descriptions, destructive actions without a consent gate, and over-broad input schemas — includes active IDOR probing (real tool calls with varied IDs, not just name-based heuristics)
 
 ## Tutorials
 
