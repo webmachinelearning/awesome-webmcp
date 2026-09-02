@@ -39,6 +39,7 @@
 ## Blogs
 
 - 2026.02 [WebMCP: The Web Standard That Makes Every Website a Tool for Agents](https://www.arcade.dev/blog/web-mcp-alex-nahas-interview) by RL Nabors, based on Alex Nahas interview
+- 2026.09 [I added WebMCP to a live Stripe checkout in ~40 lines](https://dev.to/flovoice53tech/i-added-webmcp-to-a-live-stripe-checkout-in-40-lines-4ekk) by Florin Arsenie, on adding WebMCP to a product that already takes real money
 
 ## Community
 
@@ -82,6 +83,7 @@
 ## Websites
 
 - [Stacktree](https://stacktr.ee) - Agent-first HTML hosting. The production dashboard and docs expose site-management tools (publish, update, gate, share) over WebMCP from a command palette, so humans and in-browser agents share one tool catalog.
+- [sms-florin eSIM](https://flo-voice1.com/esim) - Live eSIM store whose Stripe checkout is exposed as two WebMCP tools (`list_esim_plans`, `buy_esim_plan`); the agent tool and the human "Buy" button call the same checkout function, so pricing and config can't drift. [Integration code](https://github.com/flovoice53-tech/sms-florin-webmcp-demo).
 
 ## License
 
