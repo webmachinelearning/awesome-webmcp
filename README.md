@@ -90,6 +90,7 @@
 
 ## Videos
 
+- 2026.09 [WebMCP is here (and you should care)](https://www.youtube.com/watch?v=xtVvkRTH5ck) by Syntax, with Sarah Drasner and Dominic Farolino of the Chrome team
 - 2026.04 [WebMCP Explained](https://www.youtube.com/watch?v=GbfZSjJBQQ0&list=PLNhYw8KaLq2ViBncoyLc2TSGOjzSqe8Pr), by Andrew Nolan, presented at W3C AC Meeting 2026
 - 2026.04 [WebMCP and the Agentic Web](https://www.youtube.com/watch?v=M1cME470ugM), by [Dominic Farolino](https://domfarolino.com), presented at BlinkOn 21
 - 2026.02 [WebMCP: Agents on the Web and in the Browser](https://www.youtube.com/watch?v=6Po39iD6Pfs&t=31s) by Alex Nahas, interviewed by RL Nabors
