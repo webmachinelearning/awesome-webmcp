@@ -58,6 +58,7 @@
 - [Demos](https://github.com/GoogleChromeLabs/webmcp-tools/blob/main/AWESOME_WEBMCP.md#demos) by 3rd-party developers
 - [CliDeck MCP — Network Evidence Workbench](https://mcp.clideck.com/demo) - Live, read-only, version-aware network knowledge demo exposing deterministic lookup, change review, snapshot analysis, upgrade guidance, and topology analysis through WebMCP tools ([source](https://github.com/SmartRoot7/clideck-mcp)).
 - [isainative.dev](https://isainative.dev/) - Audits public GitHub repositories for AI coding readiness and exposes both declarative and imperative WebMCP tools.
+- [FAF WebMCP playground](https://faf.one/webmcp) - Reads a public repo's `project.faf` in the browser and exposes three WebMCP tools via `document.modelContext`: `score_faf` and `emit_agents_md` (imperative, `readOnlyHint`) and `fill_6ws` (declarative form that returns YAML without navigating). No server process ([source](https://github.com/Wolfe-Jam/faf-one-svelte-new/tree/main/src/routes/webmcp)).
 
 ## Frameworks
 
