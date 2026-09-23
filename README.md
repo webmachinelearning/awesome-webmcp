@@ -50,7 +50,7 @@
 
 - [Demos](https://github.com/GoogleChromeLabs/webmcp-tools/#demos) by Google Chrome Labs
 - [Demos](https://github.com/GoogleChromeLabs/webmcp-tools/blob/main/AWESOME_WEBMCP.md#demos) by 3rd-party developers
-- [QR Code Crafter Readability Lab](https://qrcodecrafter.com/qr-code-readability-lab) - Uses declarative and imperative WebMCP tools to generate QR exports, run bounded preflight checks, and verify exact decoding before returning assets.
+- [AI QR Code Generator | Agent & API Workflows](https://qrcodecrafter.com/ai-qr-code-generator) - Documents QR Code Crafter's WebMCP runtime registration, declarative form annotations, API discovery, and agent verification workflow.
 - [isainative.dev](https://isainative.dev/) - Audits public GitHub repositories for AI coding readiness and exposes both declarative and imperative WebMCP tools.
 
 ## Frameworks
