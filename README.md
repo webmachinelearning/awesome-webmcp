@@ -99,6 +99,7 @@ Many thanks to our WebMCP pioneers, Alex Nahas and Jason McGhee, for sharing the
 - [webmcpify](https://github.com/TueJon/webmcpify) - Agent skill that integrates WebMCP into an existing web app end to end — inventories the app, proposes a tool manifest for approval, integrates the tools, then verifies each one in a real browser and heals failures
 - [Orbilo](https://orbilo.co) - Agent readiness checker for UCP and WebMCP. Reads a site the way an AI assistant does and scores whether agents can find what you sell and act on it, then monitors as both specs change.
 - [WebMCP Kit](https://github.com/nekuda-ai/webmcp-kit) - Plugin for coding agents with an interactive visual Explorer that maps a site's user journeys to proposed WebMCP tools for review and approval, then implements and verifies them in a real browser.
+- [WebMCP Agents](https://github.com/JustineDevs/webmcp-skills) - Curated Agent Skills for designing, implementing, securing, evaluating, and maintaining WebMCP tools, with an agent-browser-style discovery and verification workflow. The published bundle is available on [Skills.sh](https://skills.sh/justinedevs/collection/webmcp-agents) and installs with `npx skills add JustineDevs/collection/webmcp-agents`.
 - [WebMCP Today](https://webmcp.today/) - Open-source package registry for discovering site-specific WebMCP packages and installing them with per-site install commands ([source](https://github.com/robertn702/webmcp-today)).
 
 ## Tutorials
