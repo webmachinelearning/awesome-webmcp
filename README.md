@@ -114,6 +114,7 @@ Many thanks to our WebMCP pioneers, Alex Nahas and Jason McGhee, for sharing the
 - 2025.10 [WebMCP demo recording](https://screen.studio/share/hbGudbFm) by Alex Nahas, presented at W3C TPAC 2025
 
 ## Websites
+- [scvd.store](https://scvd.store) - Evidence observatory and general store for agentic commerce. WebMCP tools (`read_store_guide`, `preflight_endpoint`, `check_conformance`, `verify_artifact`) mirror the store's free x402 conformance-check and endpoint-preflight instruments, registered read-only via `navigator.modelContext` alongside the store's live x402 payment shelf.
 
 - [Settled Estate](https://settledestate.com/webmcp/) - Public probate and estate-guidance search, dated comparisons of five reviewed will makers, and state executor-compensation calculators. Browser WebMCP tools update the same visible controls used manually, with source dates, price conditions and explicit unknowns. Financial inputs stay out of shared URLs.
 - [NaCzarter](https://naczarter.pl/en/developers/webmcp) - Registers WebMCP tools to search availability, quote a charter and book it; live in production under the Chrome 149 origin trial.
