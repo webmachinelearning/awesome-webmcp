@@ -106,6 +106,7 @@ Many thanks to our WebMCP pioneers, Alex Nahas and Jason McGhee, for sharing the
 
 ## Videos
 
+- 2026.09 [WebMCP: Stop scraping the Web, start calling it](https://www.youtube.com/watch?v=3NDly38DWIE), by Patrick Brosset, presented at dotAI 2026 ([slides](https://patrickbrosset.com/slides/2026-09-17-WebMCP-DotAI.pdf))
 - 2026.09 [WebMCP is here (and you should care)](https://www.youtube.com/watch?v=xtVvkRTH5ck) by Syntax, with Sarah Drasner and Dominic Farolino of the Chrome team
 - 2026.04 [WebMCP Explained](https://www.youtube.com/watch?v=GbfZSjJBQQ0&list=PLNhYw8KaLq2ViBncoyLc2TSGOjzSqe8Pr), by Andrew Nolan, presented at W3C AC Meeting 2026
 - 2026.04 [WebMCP and the Agentic Web](https://www.youtube.com/watch?v=M1cME470ugM), by [Dominic Farolino](https://domfarolino.com), presented at BlinkOn 21
