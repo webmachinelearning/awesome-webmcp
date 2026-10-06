@@ -75,8 +75,10 @@ Many thanks to our WebMCP pioneers, Alex Nahas and Jason McGhee, for sharing the
 - [Shopware WebMCP Plugin](https://github.com/agentic-commerce-lab/webmcp-plugin) - Adds WebMCP support to storefronts built with Shopware, an open-source ecommerce platform.
 - [Signett](https://github.com/signettai/signett) - TypeScript SDK for exposing existing application functions as production-ready native WebMCP tools, with schema validation, authorization, human confirmation, idempotency, recovery, verification, testing, and observability.
 - [simple-webmcp](https://github.com/emingure/simple-webmcp) - Turns existing JavaScript and TypeScript functions into callable WebMCP tools via `webmcp(fn)`, avoiding a separate tool layer while supporting schema patching, React lifecycle helpers, and execution hooks for approvals, HITL flows, and analytics.
-- [webmcp-go](https://github.com/seunghan91/webmcp-go) - Go net/http middleware that serves the WebMCP Origin-Trial token header.
-- [webmcp-django](https://github.com/seunghan91/webmcp-django) - Django integration for WebMCP: Origin-Trial token middleware and template tags for the declarative form API.
+- [webmcp (Ruby)](https://github.com/seunghan91/webmcp) - Ruby/Rails toolkit for exposing existing same-origin endpoints as WebMCP tools: boot-time validated definitions (or explicit projections of official MCP Ruby SDK tools), per-page script-safe manifests, a zero-dependency browser runtime that calls endpoints with the user's session and CSRF token, `form_with` declarative attributes, and Origin Trial helpers.
+- [webmcp-django](https://github.com/seunghan91/webmcp-django) - Django toolkit with the same manifest format and runtime: tool registry, manifest/runtime/CSRF template tags (works with HttpOnly CSRF cookies), declarative form tags, and Origin Trial middleware.
+- [webmcp-go](https://github.com/seunghan91/webmcp-go) - Go `net/http` toolkit (standard library only) with the same manifest format and runtime: validated tool definitions, script-safe manifests for `html/template`, the browser runtime via `embed`, declarative form helpers, and Origin Trial middleware.
+- [webmcp-rust](https://github.com/seunghan91/webmcp-rust) - Framework-agnostic Rust crate with the same manifest format and runtime: validated tool definitions, script-safe manifests, the browser runtime, declarative form helpers, and Origin Trial helpers with an optional tower layer.
 
 ## Presentations
 
