@@ -104,6 +104,7 @@ Many thanks to our WebMCP pioneers, Alex Nahas and Jason McGhee, for sharing the
 - [WebMCP Agents](https://github.com/JustineDevs/webmcp-skills) - Curated Agent Skills for designing, implementing, securing, evaluating, and maintaining WebMCP tools, with an agent-browser-style discovery and verification workflow. The published bundle is available on [Skills.sh](https://skills.sh/justinedevs/collection/webmcp-agents) and installs with `npx skills add JustineDevs/collection/webmcp-agents`.
 - [WebMCP Today](https://webmcp.today/) - Open-source package registry for discovering site-specific WebMCP packages and installing them with per-site install commands ([source](https://github.com/robertn702/webmcp-today)).
 - [Agentic Web Check](https://github.com/ericovirgy/agentic-web-check) - Open-source CLI that evaluates whether AI agents can actually use a website in a real browser: it detects WebMCP tool registrations and checks them for safety annotations, and verifies read-only tasks with programmatic assertions.
+- [Senro](https://senro.ai) - Comprehensive WebMCP tool testing and production monitoring platform. Free plan available.
 
 ## Tutorials
 
