@@ -53,6 +53,7 @@ Many thanks to our WebMCP pioneers, Alex Nahas and Jason McGhee, for sharing the
 
 - 2026.02 [WebMCP: The Web Standard That Makes Every Website a Tool for Agents](https://www.arcade.dev/blog/web-mcp-alex-nahas-interview) by RL Nabors, based on Alex Nahas interview
 - 2026.09 [I added WebMCP to a live Stripe checkout in ~40 lines](https://dev.to/flovoice53tech/i-added-webmcp-to-a-live-stripe-checkout-in-40-lines-4ekk) by Florin Arsenie, on adding WebMCP to a product that already takes real money
+- 2026.09 [WebMCP Explained: How Chrome Turns Your Website Into an MCP Server for AI Agents](https://www.alekseialeinikov.com/en/blog/topics/ai/webmcp-explained-chrome-ai-agents-mcp-tools) by Aleksei Aleinikov, covering the imperative and declarative APIs, cross-origin exposure and origin trial setup
 
 ## Community
 
@@ -133,6 +134,7 @@ Many thanks to our WebMCP pioneers, Alex Nahas and Jason McGhee, for sharing the
 - [Simple Tools](https://simpletoolstack.com) - PDF, image, text, and more, with WebMCP. Home exposes `discover_tools`; each tool page registers its execute tool so agents and humans share one catalog.
 - [sms-florin](https://flo-voice1.com/esim) - WebMCP tools are registered on the live Stripe checkout flow (not a separate demo), so an agent browses plans and completes a real purchase through the same code path a human uses. [Integration source](https://github.com/flovoice53-tech/sms-florin-webmcp-demo)
 - [1 Million Emojis](https://chriswijnia.com/lab/emoji) - A shared 1,000 x 1,000 emoji canvas whose page registers WebMCP tools (`emoji_paint`, `emoji_latest`, `emoji_space`, `emoji_jev`), so an in-browser agent paints the same live canvas people paint, and Jev answers each stroke. ([Tool docs](https://chriswijnia.com/lab/emoji/webmcp))
+- [Aleksei Aleinikov · Cloud Tools](https://www.alekseialeinikov.com/en/tools/) - Free Google Cloud and DevOps utilities whose deterministic engines run locally in the page. Five read-only WebMCP tools (`check_gcp_iam_policy`, `recommend_gcp_compute`, `recommend_gcp_database`, `explain_cron`, `convert_cron`) are registered with `readOnlyHint` and an abort signal via `document.modelContext`, so in-browser agents get the same answers as the UI, in English or German. Live under the Chrome origin trial.
 
 ## License
 
