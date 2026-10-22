@@ -68,6 +68,7 @@ Many thanks to our WebMCP pioneers, Alex Nahas and Jason McGhee, for sharing the
 - [CliDeck MCP — Network Evidence Workbench](https://mcp.clideck.com/demo) - Live, read-only, version-aware network knowledge demo exposing deterministic lookup, change review, snapshot analysis, upgrade guidance, and topology analysis through WebMCP tools ([source](https://github.com/SmartRoot7/clideck-mcp)).
 - [isainative.dev](https://isainative.dev/) - Audits public GitHub repositories for AI coding readiness and exposes both declarative and imperative WebMCP tools.
 - [AGENTS.md WebMCP playground](https://faf.one/webmcp) - Writes an AGENTS.md from a repo's `project.faf` and scores its context, in the browser. Three WebMCP tools via `document.modelContext`: `emit_agents_md` and `score_faf` (imperative, `readOnlyHint`) and `fill_6ws` (declarative form that returns YAML without navigating). No server process ([source](https://github.com/Wolfe-Jam/faf-one-svelte-new/tree/main/src/routes/webmcp)).
+- [Lantern Grid](https://kenchris.github.io/mcp-app-webmcp-demo/) - A small playable game whose tools change as you play: `move` registers late, `light_lantern` only while standing on a lantern, and the tool set swaps after a win. Also runs as an MCP App, so it can be used to test how a host handles WebMCP tools inside MCP Apps ([source](https://github.com/kenchris/mcp-app-webmcp-demo)).
 
 ## Frameworks
 
