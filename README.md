@@ -79,6 +79,7 @@ Many thanks to our WebMCP pioneers, Alex Nahas and Jason McGhee, for sharing the
 - [webmcp-django](https://github.com/seunghan91/webmcp-django) - Django toolkit with the same manifest format and runtime: tool registry, manifest/runtime/CSRF template tags (works with HttpOnly CSRF cookies), declarative form tags, and Origin Trial middleware.
 - [webmcp-go](https://github.com/seunghan91/webmcp-go) - Go `net/http` toolkit (standard library only) with the same manifest format and runtime: validated tool definitions, script-safe manifests for `html/template`, the browser runtime via `embed`, declarative form helpers, and Origin Trial middleware.
 - [webmcp-rust](https://github.com/seunghan91/webmcp-rust) - Framework-agnostic Rust crate with the same manifest format and runtime: validated tool definitions, script-safe manifests, the browser runtime, declarative form helpers, and Origin Trial helpers with an optional tower layer.
+- [INITE Agents](https://github.com/inite-ai/inite-agents-wordpress) - WordPress plugin and Next.js package ([@inite/site-agents](https://github.com/inite-ai/site-agents)) that register five read-only WebMCP tools (`business_facts`, `services`, `hours`, `locations`, `faq`) from facts a business confirmed in INITE; a hosted INITE service provides the facts.
 
 ## Presentations
 
