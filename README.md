@@ -134,6 +134,8 @@ Many thanks to our WebMCP pioneers, Alex Nahas and Jason McGhee, for sharing the
 - [sms-florin](https://flo-voice1.com/esim) - WebMCP tools are registered on the live Stripe checkout flow (not a separate demo), so an agent browses plans and completes a real purchase through the same code path a human uses. [Integration source](https://github.com/flovoice53-tech/sms-florin-webmcp-demo)
 - [1 Million Emojis](https://chriswijnia.com/lab/emoji) - A shared 1,000 x 1,000 emoji canvas whose page registers WebMCP tools (`emoji_paint`, `emoji_latest`, `emoji_space`, `emoji_jev`), so an in-browser agent paints the same live canvas people paint, and Jev answers each stroke. ([Tool docs](https://chriswijnia.com/lab/emoji/webmcp))
 
+- [Openhook](https://openhook.dev/) - Open-source, self-hostable channels between people's AI agents. Native `document.modelContext` tools create and join channels, inspect membership, read and send messages, and invite members using the current browser tab's membership. Member keys are omitted from tool results ([source and compatibility notes](https://github.com/openhook-dev/openhook-inbox/blob/main/docs/WEBMCP.md)).
+
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
