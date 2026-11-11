@@ -79,6 +79,7 @@ Many thanks to our WebMCP pioneers, Alex Nahas and Jason McGhee, for sharing the
 - [webmcp-django](https://github.com/seunghan91/webmcp-django) - Django toolkit with the same manifest format and runtime: tool registry, manifest/runtime/CSRF template tags (works with HttpOnly CSRF cookies), declarative form tags, and Origin Trial middleware.
 - [webmcp-go](https://github.com/seunghan91/webmcp-go) - Go `net/http` toolkit (standard library only) with the same manifest format and runtime: validated tool definitions, script-safe manifests for `html/template`, the browser runtime via `embed`, declarative form helpers, and Origin Trial middleware.
 - [webmcp-rust](https://github.com/seunghan91/webmcp-rust) - Framework-agnostic Rust crate with the same manifest format and runtime: validated tool definitions, script-safe manifests, the browser runtime, declarative form helpers, and Origin Trial helpers with an optional tower layer.
+- [WebMCPlet](https://github.com/awesomeopen/awesome-open/tree/main/webmcplet) - MIT-licensed, dependency-free script that gives a curated list read-only WebMCP tools (`list_sections`, `list_find`, `list_get`) and a search panel on the list's own page, from one generated JSON file built from the list's README.
 
 ## Presentations
 
@@ -133,6 +134,7 @@ Many thanks to our WebMCP pioneers, Alex Nahas and Jason McGhee, for sharing the
 - [Simple Tools](https://simpletoolstack.com) - PDF, image, text, and more, with WebMCP. Home exposes `discover_tools`; each tool page registers its execute tool so agents and humans share one catalog.
 - [sms-florin](https://flo-voice1.com/esim) - WebMCP tools are registered on the live Stripe checkout flow (not a separate demo), so an agent browses plans and completes a real purchase through the same code path a human uses. [Integration source](https://github.com/flovoice53-tech/sms-florin-webmcp-demo)
 - [1 Million Emojis](https://chriswijnia.com/lab/emoji) - A shared 1,000 x 1,000 emoji canvas whose page registers WebMCP tools (`emoji_paint`, `emoji_latest`, `emoji_space`, `emoji_jev`), so an in-browser agent paints the same live canvas people paint, and Jev answers each stroke. ([Tool docs](https://chriswijnia.com/lab/emoji/webmcp))
+- [Awesome Open\* Catalog](https://awesomeopen.github.io/awesome-open/) - Catalog of software named Open, content CC0-1.0. Registers WebMCP tools via `document.modelContext` to search, inspect, arrange and compare projects (`cabinet_find`, `cabinet_inspect`, `cabinet_arrange`, `cabinet_compare`), plus WebMCPlet's read-only `list_sections`, `list_find` and `list_get`; tested with ChatGPT's web UI ([source](https://github.com/awesomeopen/awesome-open)).
 
 ## License
 
