@@ -106,6 +106,7 @@ Many thanks to our WebMCP pioneers, Alex Nahas and Jason McGhee, for sharing the
 - [Agentic Web Check](https://github.com/ericovirgy/agentic-web-check) - Open-source CLI that evaluates whether AI agents can actually use a website in a real browser: it detects WebMCP tool registrations and checks them for safety annotations, and verifies read-only tasks with programmatic assertions.
 
 ## Tutorials
+- [WebMCP readiness checklist](https://github.com/raghav453/webmcp-readiness-checklist) - Evidence-based implementation review with an action inventory, input/output contracts, browser verification workflow and local assessment script.
 
 ## Videos
 
