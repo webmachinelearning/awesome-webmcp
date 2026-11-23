@@ -120,6 +120,7 @@ Many thanks to our WebMCP pioneers, Alex Nahas and Jason McGhee, for sharing the
 
 ## Websites
 
+- [WindowsForum](https://windowsforum.com/) - Windows community forum exposing 20+ read-only tools and confirmation-gated member actions via `document.modelContext` (Chrome and Edge origin trials), plus a declarative search form and a [`.well-known/webmcp.json`](https://windowsforum.com/.well-known/webmcp.json) discovery document
 - [Settled Estate](https://settledestate.com/webmcp/) - Public probate and estate-guidance search, dated comparisons of five reviewed will makers, and state executor-compensation calculators. Browser WebMCP tools update the same visible controls used manually, with source dates, price conditions and explicit unknowns. Financial inputs stay out of shared URLs.
 - [NaCzarter](https://naczarter.pl/en/developers/webmcp) - Registers WebMCP tools to search availability, quote a charter and book it; live in production under the Chrome 149 origin trial.
 - [Archipelago](https://warrenperez.com/en/archipelago/) - Maps a Notion workspace as a nautical chart, entirely in the browser. Four WebMCP tools let an agent draw the chart from structured data, read it back, highlight a computed set of databases, and annotate islands - on the same map the human is watching.
