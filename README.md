@@ -110,6 +110,7 @@ Many thanks to our WebMCP pioneers, Alex Nahas and Jason McGhee, for sharing the
 
 ## Videos
 
+- 2026.11 [Your website has a second interface](https://webmcply.com/video-library/second-interface) by WebMCPly — A 72-second WebMCP explainer of structured website tools, website-owned execution and user confirmation through an illustrative consultation request, with captions and a transcript.
 - 2026.09 [WebMCP: Stop scraping the Web, start calling it](https://www.youtube.com/watch?v=3NDly38DWIE), by Patrick Brosset, presented at dotAI 2026 ([slides](https://patrickbrosset.com/slides/2026-09-17-WebMCP-DotAI.pdf))
 - 2026.09 [WebMCP is here (and you should care)](https://www.youtube.com/watch?v=xtVvkRTH5ck) by Syntax, with Sarah Drasner and Dominic Farolino of the Chrome team
 - 2026.04 [WebMCP Explained](https://www.youtube.com/watch?v=GbfZSjJBQQ0&list=PLNhYw8KaLq2ViBncoyLc2TSGOjzSqe8Pr), by Andrew Nolan, presented at W3C AC Meeting 2026
