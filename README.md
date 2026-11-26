@@ -105,6 +105,7 @@ Many thanks to our WebMCP pioneers, Alex Nahas and Jason McGhee, for sharing the
 - [WebMCP Agents](https://github.com/JustineDevs/webmcp-skills) - Curated Agent Skills for designing, implementing, securing, evaluating, and maintaining WebMCP tools, with an agent-browser-style discovery and verification workflow. The published bundle is available on [Skills.sh](https://skills.sh/justinedevs/collection/webmcp-agents) and installs with `npx skills add JustineDevs/collection/webmcp-agents`.
 - [WebMCP Today](https://webmcp.today/) - Open-source package registry for discovering site-specific WebMCP packages and installing them with per-site install commands ([source](https://github.com/robertn702/webmcp-today)).
 - [Agentic Web Check](https://github.com/ericovirgy/agentic-web-check) - Open-source CLI that evaluates whether AI agents can actually use a website in a real browser: it detects WebMCP tool registrations and checks them for safety annotations, and verifies read-only tasks with programmatic assertions.
+- [CrawlWise WebMCP Checker](https://crawlwise.dev/tools/webmcp-checker) - Free online checker that inspects declarative WebMCP form attributes (`toolname`, `tooldescription`, `toolparamdescription`), imperative `navigator.modelContext` and `document.modelContext` registrations during Chromium rendering, parameter schemas, tool name collisions, and Secure Context requirements.
 
 ## Tutorials
 
@@ -136,6 +137,7 @@ Many thanks to our WebMCP pioneers, Alex Nahas and Jason McGhee, for sharing the
 - [Simple Tools](https://simpletoolstack.com) - PDF, image, text, and more, with WebMCP. Home exposes `discover_tools`; each tool page registers its execute tool so agents and humans share one catalog.
 - [sms-florin](https://flo-voice1.com/esim) - WebMCP tools are registered on the live Stripe checkout flow (not a separate demo), so an agent browses plans and completes a real purchase through the same code path a human uses. [Integration source](https://github.com/flovoice53-tech/sms-florin-webmcp-demo)
 - [1 Million Emojis](https://chriswijnia.com/lab/emoji) - A shared 1,000 x 1,000 emoji canvas whose page registers WebMCP tools (`emoji_paint`, `emoji_latest`, `emoji_space`, `emoji_jev`), so an in-browser agent paints the same live canvas people paint, and Jev answers each stroke. ([Tool docs](https://chriswijnia.com/lab/emoji/webmcp))
+- [CrawlWise](https://crawlwise.dev/) - Technical SEO and AI-readiness website auditor exposing both declarative and imperative WebMCP tools on `/` and `/seo-audit`, along with a practical [WebMCP implementation guide](https://crawlwise.dev/guides/webmcp) and a no-login REST API ([OpenAPI spec](https://crawlwise.dev/openapi.yaml)).
 
 ## License
 
